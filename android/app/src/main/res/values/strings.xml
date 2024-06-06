@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Calorie balance</string>
+    <string name="title_activity_main">Calorie balance</string>
+    <string name="package_name">com.calories_calculate</string>
+    <string name="custom_url_scheme">com.calories_calculate</string>
+</resources>

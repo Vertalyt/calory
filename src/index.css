@@ -1,0 +1,19 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+input {
+    border: none; /* Убираем границу */
+    border-bottom: 2px solid #15803d; /* Создаем линию внизу */
+    outline: none; /* Убираем контур при фокусе */
+    caret-color: #0f5228; /* Цвет курсора */
+    height: 26px;
+    width: 100%;
+    background: transparent;
+
+}
+
+/* Дополнительный стиль для добавления анимации при фокусе */
+input:focus {
+    border-bottom: 3px solid #0f5228; /* Меняем стиль линии при фокусе */
+} 

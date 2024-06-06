@@ -1,0 +1,7 @@
+{
+  "name": "Calorie balance",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}

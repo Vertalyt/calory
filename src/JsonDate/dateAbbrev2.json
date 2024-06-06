@@ -1,0 +1,1314 @@
+[
+    {
+        "NDB_No": "1",
+        "desc": {
+            "ua": "Авокадо",
+            "ru": "Авокадо",
+            "en": "Avocado",
+            "kk": "Авокадо",
+            "pl": "Awokado"
+        },
+        "energ_Kcal": 161,
+        "protein": 1.9,
+        "lipid": 15.3,
+        "carbohydrt": 7.3
+    },
+    {
+        "NDB_No": "2",
+        "desc": {
+            "ua": "Айва",
+            "ru": "Айва",
+            "en": "Quince",
+            "kk": "Айва",
+            "pl": "Pigwa"
+        },
+        "energ_Kcal": 73,
+        "protein": 0.62,
+        "lipid": 0.57,
+        "carbohydrt": 14.03
+    },
+    {
+        "NDB_No": "3",
+        "desc": {
+            "ua": "Баклажан",
+            "ru": "Баклажан",
+            "en": "Eggplant",
+            "kk": "Баялды",
+            "pl": "Bakłażan"
+        },
+        "energ_Kcal": 29,
+        "protein": 1.19,
+        "lipid": 0.2,
+        "carbohydrt": 4.45
+    },
+    {
+        "NDB_No": "4",
+        "desc": {
+            "ua": "Банан",
+            "ru": "Банан",
+            "en": "Banana",
+            "kk": "Банан",
+            "pl": "Banan"
+        },
+        "energ_Kcal": 89,
+        "protein": 1.09,
+        "lipid": 0.33,
+        "carbohydrt": 22.84
+    },
+    {
+        "NDB_No": "5",
+        "desc": {
+            "ua": "Бейбі морква",
+            "ru": "Бейби морковь",
+            "en": "Baby carrot",
+            "kk": "Бала сәбіз",
+            "pl": "Mała Marchewka"
+        },
+        "energ_Kcal": 41,
+        "protein": 0.8,
+        "lipid": 0.14,
+        "carbohydrt": 9.08
+    },
+    {
+        "NDB_No": "6",
+        "desc": {
+            "ua": "Броколі",
+            "ru": "Броколи",
+            "en": "Broccoli",
+            "kk": "Брокколи",
+            "pl": "Brokuły"
+        },
+        "energ_Kcal": 43,
+        "protein": 3.3,
+        "lipid": 0.2,
+        "carbohydrt": 5.7
+    },
+    {
+        "NDB_No": "7",
+        "desc": {
+            "ua": "Буряк",
+            "ru": "Свекла",
+            "en": "Beet",
+            "kk": "Қызылша",
+            "pl": "Buraczany"
+        },
+        "energ_Kcal": 52,
+        "protein": 1.6,
+        "lipid": 0.2,
+        "carbohydrt": 10
+    },
+    {
+        "NDB_No": "8",
+        "desc": {
+            "ua": "Вершки, 10%",
+            "ru": "Сливки, 10%",
+            "en": "Cream, 10%",
+            "kk": "Крем, 10%",
+            "pl": "Krem 10%"
+        },
+        "energ_Kcal": 119,
+        "protein": 2.9,
+        "lipid": 10,
+        "carbohydrt": 4.3
+    },
+    {
+        "NDB_No": "9",
+        "desc": {
+            "ua": "Виноград",
+            "ru": "Виноград",
+            "en": "Grape",
+            "kk": "Жүзім",
+            "pl": "Winogrono"
+        },
+        "energ_Kcal": 69,
+        "protein": 0.72,
+        "lipid": 0.16,
+        "carbohydrt": 18.1
+    },
+    {
+        "NDB_No": "10",
+        "desc": {
+            "ua": "Вишня",
+            "ru": "Вишня",
+            "en": "Cherry",
+            "kk": "Шие",
+            "pl": "Wiśnia"
+        },
+        "energ_Kcal": 51,
+        "protein": 0.8,
+        "lipid": 0.2,
+        "carbohydrt": 12.5
+    },
+    {
+        "NDB_No": "11",
+        "desc": {
+            "ua": "Вівсянка",
+            "ru": "Овсянка",
+            "en": "Oatmeal",
+            "kk": "Сұлы жармасы",
+            "pl": "Owsianka"
+        },
+        "energ_Kcal": 374,
+        "protein": 13.5,
+        "lipid": 7,
+        "carbohydrt": 58.7
+    },
+    {
+        "NDB_No": "12",
+        "desc": {
+            "ua": "Гарбуз, запечений",
+            "ru": "Тыква, запеченная",
+            "en": "Baked pumpkin",
+            "kk": "Асқабақ, пісірілген",
+            "pl": "Dynia pieczona"
+        },
+        "energ_Kcal": 26,
+        "protein": 2.2,
+        "lipid": 0,
+        "carbohydrt": 3.8
+    },
+    {
+        "NDB_No": "13",
+        "desc": {
+            "ua": "Гранат",
+            "ru": "Гранат",
+            "en": "Garnet",
+            "kk": "Гранат",
+            "pl": "Granat"
+        },
+        "energ_Kcal": 100,
+        "protein": 1.7,
+        "lipid": 1.2,
+        "carbohydrt": 18.7
+    },
+    {
+        "NDB_No": "14",
+        "desc": {
+            "ua": "Гречка, варена",
+            "ru": "Гречка, вареная",
+            "en": "Buckwheat, boiled",
+            "kk": "Қарақұмық, қайнатылған",
+            "pl": "Kasza gryczana gotowana"
+        },
+        "energ_Kcal": 105,
+        "protein": 3.38,
+        "lipid": 0.62,
+        "carbohydrt": 19.94
+    },
+    {
+        "NDB_No": "15",
+        "desc": {
+            "ua": "Гриби тушковані зі сметаною",
+            "ru": "Грибы тушеные со сметаной",
+            "en": "Mushrooms stewed with sour cream",
+            "kk": "Қаймақпен бұқтырылған саңырауқұлақтар",
+            "pl": "Grzyby duszone ze śmietaną"
+        },
+        "energ_Kcal": 93,
+        "protein": 3,
+        "lipid": 9,
+        "carbohydrt": 4
+    },
+    {
+        "NDB_No": "16",
+        "desc": {
+            "ua": "Груша",
+            "ru": "Груша",
+            "en": "Pear",
+            "kk": "Алмұрт",
+            "pl": "Gruszka"
+        },
+        "energ_Kcal": 58,
+        "protein": 0.44,
+        "lipid": 0.33,
+        "carbohydrt": 13.42
+    },
+    {
+        "NDB_No": "17",
+        "desc": {
+            "ua": "Диня, сушена",
+            "ru": "Дыня, сушеная",
+            "en": "Melon, dried",
+            "kk": "Қауын, кептірілген",
+            "pl": "Melon suszony"
+        },
+        "energ_Kcal": 175,
+        "protein": 0,
+        "lipid": 0,
+        "carbohydrt": 45
+    },
+    {
+        "NDB_No": "18",
+        "desc": {
+            "ua": "Кава з молоком 0.5%",
+            "ru": "Кофе с молоком 0.5%",
+            "en": "Coffee with milk 0.5%",
+            "kk": "Сүт қосылған кофе 0,5%",
+            "pl": "Kawa z mlekiem 0,5%"
+        },
+        "energ_Kcal": 11,
+        "protein": 3,
+        "lipid": 0.5,
+        "carbohydrt": 4.7
+    },
+    {
+        "NDB_No": "19",
+        "desc": {
+            "ua": "Кава з молоком 1%",
+            "ru": "Кофе с молоком 1%",
+            "en": "Coffee with milk 1%",
+            "kk": "1% сүт қосылған кофе",
+            "pl": "Kawa z mlekiem 1%"
+        },
+        "energ_Kcal": 15,
+        "protein": 3.3,
+        "lipid": 0.6,
+        "carbohydrt": 4.7
+    },
+    {
+        "NDB_No": "20",
+        "desc": {
+            "ua": "Кава з молоком 2,5%",
+            "ru": "Кофе с молоком 2,5%",
+            "en": "Coffee with milk 2.5%",
+            "kk": "Сүт қосылған кофе 2,5%",
+            "pl": "Kawa z mlekiem 2,5%"
+        },
+        "energ_Kcal": 18,
+        "protein": 3,
+        "lipid": 0.7,
+        "carbohydrt": 1.6
+    },
+    {
+        "NDB_No": "21",
+        "desc": {
+            "ua": "Кавун",
+            "ru": "Арбуз",
+            "en": "Watermelon",
+            "kk": "Қарбыз",
+            "pl": "Arbuz"
+        },
+        "energ_Kcal": 30,
+        "protein": 0.6,
+        "lipid": 0.2,
+        "carbohydrt": 8
+    },
+    {
+        "NDB_No": "22",
+        "desc": {
+            "ua": "Какао з молоком",
+            "ru": "Какао с молоком",
+            "en": "Cocoa with milk",
+            "kk": "Сүт қосылған какао",
+            "pl": "Kakao z mlekiem"
+        },
+        "energ_Kcal": 77,
+        "protein": 3.52,
+        "lipid": 2.34,
+        "carbohydrt": 10.7
+    },
+    {
+        "NDB_No": "23",
+        "desc": {
+            "ua": "Картопля запечена",
+            "ru": "Картофель запеченный",
+            "en": "Baked potatoes",
+            "kk": "Пісірілген картоп",
+            "pl": "Pieczone ziemniaki"
+        },
+        "energ_Kcal": 77,
+        "protein": 3.52,
+        "lipid": 2.34,
+        "carbohydrt": 10.7
+    },
+    {
+        "NDB_No": "24",
+        "desc": {
+            "ua": "Квашена капуста",
+            "ru": "Квашеная капуста",
+            "en": "Fermented cabbage",
+            "kk": "Ашытылған қырыққабат",
+            "pl": "Kapusta Kiszona"
+        },
+        "energ_Kcal": 28,
+        "protein": 2,
+        "lipid": 0.1,
+        "carbohydrt": 5.11
+    },
+    {
+        "NDB_No": "25",
+        "desc": {
+            "ua": "Квашені огірки",
+            "ru": "Квашенные огурцы",
+            "en": "Pickled cucumbers",
+            "kk": "Маринадталған қияр",
+            "pl": "Ogórki kiszone"
+        },
+        "energ_Kcal": 44,
+        "protein": 0.33,
+        "lipid": 0.2,
+        "carbohydrt": 2.26
+    },
+    {
+        "NDB_No": "26",
+        "desc": {
+            "ua": "Кетчуп без цукру",
+            "ru": "Кетчуп без сахара",
+            "en": "Ketchup without sugar",
+            "kk": "Қантсыз кетчуп",
+            "pl": "Ketchup bez cukru"
+        },
+        "energ_Kcal": 278,
+        "protein": 2.5,
+        "lipid": 0.3,
+        "carbohydrt": 13.2
+    },
+    {
+        "NDB_No": "27",
+        "desc": {
+            "ua": "Кефір 1%",
+            "ru": "Кефир 1%",
+            "en": "Kefir 1%",
+            "kk": "Айран 1%",
+            "pl": "Kefir 1%"
+        },
+        "energ_Kcal": 37,
+        "protein": 3.2,
+        "lipid": 1,
+        "carbohydrt": 3.9
+    },
+    {
+        "NDB_No": "28",
+        "desc": {
+            "ua": "Кефір, 2,5%",
+            "ru": "Кефир, 2,5%",
+            "en": "Kefir, 2.5%",
+            "kk": "Айран, 2,5%",
+            "pl": "Kefir 2,5%"
+        },
+        "energ_Kcal": 51,
+        "protein": 3,
+        "lipid": 2.5,
+        "carbohydrt": 4
+    },
+    {
+        "NDB_No": "29",
+        "desc": {
+            "ua": "Китайська капуста",
+            "ru": "Китайская капуста",
+            "en": "Chinese cabbage",
+            "kk": "Қытай қырыққабаты",
+            "pl": "Kapusta pekińska"
+        },
+        "energ_Kcal": 23,
+        "protein": 1.3,
+        "lipid": 0.2,
+        "carbohydrt": 2.66
+    },
+    {
+        "NDB_No": "30",
+        "desc": {
+            "ua": "Кролятина",
+            "ru": "Кролятина",
+            "en": "Rabbit",
+            "kk": "Үй қоян",
+            "pl": "Królik"
+        },
+        "energ_Kcal": 173,
+        "protein": 33,
+        "lipid": 3.51,
+        "carbohydrt": 0
+    },
+    {
+        "NDB_No": "31",
+        "desc": {
+            "ua": "Курятина, варена",
+            "ru": "Курятина, вареная",
+            "en": "Chicken, boiled",
+            "kk": "Тауық, қайнатылған",
+            "pl": "Kurczak gotowany"
+        },
+        "energ_Kcal": 170,
+        "protein": 25,
+        "lipid": 7,
+        "carbohydrt": 0
+    },
+    {
+        "NDB_No": "32",
+        "desc": {
+            "ua": "Курятина, філе",
+            "ru": "Курятина, филе",
+            "en": "Chicken, fillet",
+            "kk": "Тауық, филе",
+            "pl": "Filet z kurczaka"
+        },
+        "energ_Kcal": 158,
+        "protein": 32.1,
+        "lipid": 3.24,
+        "carbohydrt": 0
+    },
+    {
+        "NDB_No": "33",
+        "desc": {
+            "ua": "Курятина, філе запечене",
+            "ru": "Курятина, филе запеченное",
+            "en": "Chicken, baked fillet",
+            "kk": "Тауық еті, пісірілген филе",
+            "pl": "Kurczak, Pieczony Filet"
+        },
+        "energ_Kcal": 119,
+        "protein": 24.88,
+        "lipid": 1.56,
+        "carbohydrt": 0.47
+    },
+    {
+        "NDB_No": "34",
+        "desc": {
+            "ua": "Огірок",
+            "ru": "Огурец",
+            "en": "Cucumber",
+            "kk": "Қияр",
+            "pl": "Ogórek"
+        },
+        "energ_Kcal": 119,
+        "protein": 24.88,
+        "lipid": 1.56,
+        "carbohydrt": 0.47
+    },
+    {
+        "NDB_No": "35",
+        "desc": {
+            "ua": "Лаваш",
+            "ru": "Лаваш",
+            "en": "Pita",
+            "kk": "Пита",
+            "pl": "Pita"
+        },
+        "energ_Kcal": 314,
+        "protein": 9,
+        "lipid": 3.6,
+        "carbohydrt": 61.4
+    },
+    {
+        "NDB_No": "36",
+        "desc": {
+            "ua": "Листя салату",
+            "ru": "Листья салата",
+            "en": "Lettuce",
+            "kk": "Латук салаты",
+            "pl": "Sałata"
+        },
+        "energ_Kcal": 22,
+        "protein": 1.09,
+        "lipid": 0.16,
+        "carbohydrt": 4.07
+    },
+    {
+        "NDB_No": "37",
+        "desc": {
+            "ua": "Лохина",
+            "ru": "Лохина",
+            "en": "Lokhina",
+            "kk": "Лохина",
+            "pl": "Lochina"
+        },
+        "energ_Kcal": 57,
+        "protein": 0.7,
+        "lipid": 0.3,
+        "carbohydrt": 14
+    },
+    {
+        "NDB_No": "38",
+        "desc": {
+            "ua": "Макарони",
+            "ru": "Макароны",
+            "en": "Macaroni",
+            "kk": "Макарон",
+            "pl": "Makaron"
+        },
+        "energ_Kcal": 364,
+        "protein": 11,
+        "lipid": 1.6,
+        "carbohydrt": 75.2
+    },
+    {
+        "NDB_No": "39",
+        "desc": {
+            "ua": "Малина",
+            "ru": "Малина",
+            "en": "Raspberry",
+            "kk": "Таңқурай",
+            "pl": "Malina"
+        },
+        "energ_Kcal": 52,
+        "protein": 1.2,
+        "lipid": 0.65,
+        "carbohydrt": 11.9
+    },
+    {
+        "NDB_No": "40",
+        "desc": {
+            "ua": "Манго, сушений",
+            "ru": "Манго, сушеный",
+            "en": "Mango, dried",
+            "kk": "Манго, кептірілген",
+            "pl": "Mango suszone"
+        },
+        "energ_Kcal": 328,
+        "protein": 74.1,
+        "lipid": 1.48,
+        "carbohydrt": 0.78
+    },
+    {
+        "NDB_No": "41",
+        "desc": {
+            "ua": "Мандарин",
+            "ru": "Мандарин",
+            "en": "Tangerine",
+            "kk": "Мандарин",
+            "pl": "Mandarynka"
+        },
+        "energ_Kcal": 38,
+        "protein": 1.48,
+        "lipid": 0.78,
+        "carbohydrt": 74.1
+    },
+    {
+        "NDB_No": "42",
+        "desc": {
+            "ua": "Мед",
+            "ru": "Мед",
+            "en": "Honey",
+            "kk": "Жаным",
+            "pl": "Miód"
+        },
+        "energ_Kcal": 314,
+        "protein": 0.8,
+        "lipid": 0,
+        "carbohydrt": 75
+    },
+    {
+        "NDB_No": "43",
+        "desc": {
+            "ua": "Мигдаль, сушений",
+            "ru": "Миндаль, сушеный",
+            "en": "Almond, dried",
+            "kk": "Бадам, кептірілген",
+            "pl": "Migdały suszone"
+        },
+        "energ_Kcal": 579,
+        "protein": 21,
+        "lipid": 49,
+        "carbohydrt": 22
+    },
+    {
+        "NDB_No": "44",
+        "desc": {
+            "ua": "Молоко 0,5%",
+            "ru": "Молоко 0,5%",
+            "en": "Milk 0.5%",
+            "kk": "Сүт 0,5%",
+            "pl": "Mleko 0,5%"
+        },
+        "energ_Kcal": 35,
+        "protein": 3,
+        "lipid": 0.5,
+        "carbohydrt": 4.7
+    },
+    {
+        "NDB_No": "45",
+        "desc": {
+            "ua": "Молоко 1,0%",
+            "ru": "Молоко 1,0%",
+            "en": "Milk 1.0%",
+            "kk": "Сүт 1,0%",
+            "pl": "Mleko 1,0%"
+        },
+        "energ_Kcal": 42,
+        "protein": 3.3,
+        "lipid": 1,
+        "carbohydrt": 4.8
+    },
+    {
+        "NDB_No": "46",
+        "desc": {
+            "ua": "Молоко 2,5%",
+            "ru": "Молоко 2,5%",
+            "en": "Milk 2.5%",
+            "kk": "Сүт 2,5%",
+            "pl": "Mleko 2,5%"
+        },
+        "energ_Kcal": 51,
+        "protein": 2.8,
+        "lipid": 2.5,
+        "carbohydrt": 4.7
+    },
+    {
+        "NDB_No": "47",
+        "desc": {
+            "ua": "Морква",
+            "ru": "Морковь",
+            "en": "Carrot",
+            "kk": "Сәбіз",
+            "pl": "Marchewka"
+        },
+        "energ_Kcal": 35,
+        "protein": 1,
+        "lipid": 0.22,
+        "carbohydrt": 7.37
+    },
+    {
+        "NDB_No": "48",
+        "desc": {
+            "ua": "Моцарелла, 20%",
+            "ru": "Моцарелла, 20%",
+            "en": "Mozzarella, 20%",
+            "kk": "Моцарелла, 20%",
+            "pl": "Mozzarella 20%"
+        },
+        "energ_Kcal": 296,
+        "protein": 23.7,
+        "lipid": 20.4,
+        "carbohydrt": 4.44
+    },
+    {
+        "NDB_No": "49",
+        "desc": {
+            "ua": "Насіння льону",
+            "ru": "Семена льна",
+            "en": "Flax seeds",
+            "kk": "Зығыр тұқымдары",
+            "pl": "Nasiona lnu"
+        },
+        "energ_Kcal": 492,
+        "protein": 33,
+        "lipid": 38,
+        "carbohydrt": 4.5
+    },
+    {
+        "NDB_No": "50",
+        "desc": {
+            "ua": "Натуральний кетчуп без цукру",
+            "ru": "Натуральный кетчуп без сахара",
+            "en": "Natural ketchup without sugar",
+            "kk": "Қантсыз табиғи кетчуп",
+            "pl": "Naturalny ketchup bez cukru"
+        },
+        "energ_Kcal": 66,
+        "protein": 2.5,
+        "lipid": 0.3,
+        "carbohydrt": 13.2
+    },
+    {
+        "NDB_No": "51",
+        "desc": {
+            "ua": "Овочевий салат з соняшниковою олією",
+            "ru": "Овощной салат с подсолнечным маслом",
+            "en": "Vegetable salad with sunflower oil",
+            "kk": "Күнбағыс майы қосылған көкөніс салаты",
+            "pl": "Sałatka jarzynowa z olejem słonecznikowym"
+        },
+        "energ_Kcal": 57,
+        "protein": 2,
+        "lipid": 3,
+        "carbohydrt": 6
+    },
+    {
+        "NDB_No": "52",
+        "desc": {
+            "ua": "Овочевий салат з оливковою олією",
+            "ru": "Овощной салат с оливковым маслом",
+            "en": "Vegetable salad with olive oil",
+            "kk": "Зәйтүн майы қосылған көкөніс салаты",
+            "pl": "Sałatka jarzynowa z oliwą z oliwek"
+        },
+        "energ_Kcal": 78,
+        "protein": 1.5,
+        "lipid": 3.5,
+        "carbohydrt": 7
+    },
+    {
+        "NDB_No": "53",
+        "desc": {
+            "ua": "Огірок",
+            "ru": "Огурец",
+            "en": "Cucumber",
+            "kk": "Құрапы",
+            "pl": "Ogórek"
+        },
+        "energ_Kcal": 15,
+        "protein": 0.7,
+        "lipid": 0,
+        "carbohydrt": 3.6
+    },
+    {
+        "NDB_No": "54",
+        "desc": {
+            "ua": "Оливкова олія",
+            "ru": "Оливковое масло",
+            "en": "Olive oil",
+            "kk": "Өрік жауы",
+            "pl": "Oliwa z oliwek"
+        },
+        "energ_Kcal": 896,
+        "protein": 0.003,
+        "lipid": 99.4,
+        "carbohydrt": 0.15
+    },
+    {
+        "NDB_No": "55",
+        "desc": {
+            "ua": "Омлет на молоці",
+            "ru": "Омлет на молоке",
+            "en": "Milk omelette",
+            "kk": "Шамырымды аңсау",
+            "pl": "Omlet na mleku"
+        },
+        "energ_Kcal": 160,
+        "protein": 10,
+        "lipid": 15.4,
+        "carbohydrt": 2.1
+    },
+    {
+        "NDB_No": "56",
+        "desc": {
+            "ua": "Персик",
+            "ru": "Персик",
+            "en": "Peach",
+            "kk": "Алма",
+            "pl": "Brzoskwinia"
+        },
+        "energ_Kcal": 42,
+        "protein": 0.91,
+        "lipid": 0.27,
+        "carbohydrt": 10.1
+    },
+    {
+        "NDB_No": "57",
+        "desc": {
+            "ua": "Порічка",
+            "ru": "Петрушка",
+            "en": "Parsley",
+            "kk": "Мұз",
+            "pl": "Pietruszka"
+        },
+        "energ_Kcal": 55,
+        "protein": 1.4,
+        "lipid": 0.2,
+        "carbohydrt": 14
+    },
+    {
+        "NDB_No": "58",
+        "desc": {
+            "ua": "Редиска",
+            "ru": "Редис",
+            "en": "Radish",
+            "kk": "Қартоп",
+            "pl": "Rzodkiewka"
+        },
+        "energ_Kcal": 24,
+        "protein": 1.09,
+        "lipid": 0.14,
+        "carbohydrt": 3.91
+    },
+    {
+        "NDB_No": "59",
+        "desc": {
+            "ua": "Рис",
+            "ru": "Рис",
+            "en": "Rice",
+            "kk": "Жәлтері",
+            "pl": "Ryż"
+        },
+        "energ_Kcal": 130,
+        "protein": 2.38,
+        "lipid": 0.2,
+        "carbohydrt": 28.6
+    },
+    {
+        "NDB_No": "60",
+        "desc": {
+            "ua": "Ром 37,5",
+            "ru": "Ром 37,5",
+            "en": "Rum 37.5%",
+            "kk": "Ром 37,5",
+            "pl": "Rum 37,5"
+        },
+        "energ_Kcal": 213,
+        "protein": 2.38,
+        "lipid": 0.2,
+        "carbohydrt": 28.6
+    },
+    {
+        "NDB_No": "61",
+        "desc": {
+            "ua": "Сир твердий 27%",
+            "ru": "Сыр 27%",
+            "en": "Cheese 27%",
+            "kk": "Сұр 27%",
+            "pl": "Ser 27%"
+        },
+        "energ_Kcal": 229,
+        "protein": 28,
+        "lipid": 13,
+        "carbohydrt": 0
+    },
+    {
+        "NDB_No": "62",
+        "desc": {
+            "ua": "Сир твердий 45%",
+            "ru": "Сыр 45%",
+            "en": "Cheese 45%",
+            "kk": "Сұр 45%",
+            "pl": "Ser 45%"
+        },
+        "energ_Kcal": 307,
+        "protein": 8.1,
+        "lipid": 18,
+        "carbohydrt": 7.4
+    },
+    {
+        "NDB_No": "63",
+        "desc": {
+            "ua": "Сир твердий 50%",
+            "ru": "Сыр 50%",
+            "en": "Cheese 50%",
+            "kk": "Сұр 50%",
+            "pl": "Ser 50%"
+        },
+        "energ_Kcal": 342,
+        "protein": 21,
+        "lipid": 27.5,
+        "carbohydrt": 0
+    },
+    {
+        "NDB_No": "64",
+        "desc": {
+            "ua": "Сир твердий Косічка, біла",
+            "ru": "Сыр Косичка, белый",
+            "en": "Cheese Kosichka, white",
+            "kk": "Ақ сұр",
+            "pl": "Ser Koszyk, biały"
+        },
+        "energ_Kcal": 281,
+        "protein": 23,
+        "lipid": 19,
+        "carbohydrt": 4.5
+    },
+    {
+        "NDB_No": "65",
+        "desc": {
+            "ua": "Сир твердий Пармезан 30%",
+            "ru": "Сыр Пармезан 30%",
+            "en": "Parmesan cheese 30%",
+            "kk": "Пармезан сұр 30%",
+            "pl": "Śliwki"
+        },
+        "energ_Kcal": 403,
+        "protein": 30.1,
+        "lipid": 29.5,
+        "carbohydrt": 4.33
+    },
+    {
+        "NDB_No": "66",
+        "desc": {
+            "ua": "Сливи",
+            "ru": "Сливы",
+            "en": "Plums",
+            "kk": "Алыча",
+            "pl": "Porzeczka"
+        },
+        "energ_Kcal": 46,
+        "protein": 0.7,
+        "lipid": 0.28,
+        "carbohydrt": 11.4
+    },
+    {
+        "NDB_No": "67",
+        "desc": {
+            "ua": "Смородина",
+            "ru": "Смородина",
+            "en": "Currant",
+            "kk": "Алтын жеміс",
+            "pl": "Olej słonecznikowy"
+        },
+        "energ_Kcal": 49,
+        "protein": 0.82,
+        "lipid": 0.2,
+        "carbohydrt": 9.68
+    },
+    {
+        "NDB_No": "68",
+        "desc": {
+            "ua": "Соняшникова олія",
+            "ru": "Подсолнечное масло",
+            "en": "Sunflower oil",
+            "kk": "Күнді өлшемді масла",
+            "pl": "Soczewica"
+        },
+        "energ_Kcal": 898,
+        "protein": 0,
+        "lipid": 100,
+        "carbohydrt": 0
+    },
+    {
+        "NDB_No": "69",
+        "desc": {
+            "ua": "Сочевиця",
+            "ru": "Чечевица",
+            "en": "Lentils",
+            "kk": "Соқырма",
+            "pl": "Twaróg 0,5%"
+        },
+        "energ_Kcal": 898,
+        "protein": 9.02,
+        "lipid": 0.38,
+        "carbohydrt": 20.1
+    },
+    {
+        "NDB_No": "70",
+        "desc": {
+            "ua": "Сир 0.5%",
+            "ru": "Творог 0,5%",
+            "en": "0.5% Cottage cheese",
+            "kk": "1%-тық тұзым",
+            "pl": "Pomidory"
+        },
+        "energ_Kcal": 84,
+        "protein": 15.8,
+        "lipid": 0.5,
+        "carbohydrt": 4.6
+    },
+    {
+        "NDB_No": "71",
+        "desc": {
+            "ua": "Томати",
+            "ru": "Помидоры",
+            "en": "Tomatoes",
+            "kk": "Қызғылт суы",
+            "pl": "Sok pomidorowy z miąższem"
+        },
+        "energ_Kcal": 18,
+        "protein": 0.9,
+        "lipid": 0,
+        "carbohydrt": 3.9
+    },
+    {
+        "NDB_No": "72",
+        "desc": {
+            "ua": "Томатний сік з м'якотю",
+            "ru": "Томатный сок с мякотью",
+            "en": "Tomato juice with pulp",
+            "kk": "Кеме",
+            "pl": "Tuńczyk, filet"
+        },
+        "energ_Kcal": 29,
+        "protein": 1,
+        "lipid": 0,
+        "carbohydrt": 6
+    },
+    {
+        "NDB_No": "73",
+        "desc": {
+            "ua": "Тунець, філе",
+            "ru": "Тунец, филе",
+            "en": "Tuna, fillet",
+            "kk": "Қазақ бұлық",
+            "pl": "Ukraińska bułka"
+        },
+        "energ_Kcal": 139,
+        "protein": 24,
+        "lipid": 4.6,
+        "carbohydrt": 6
+    },
+    {
+        "NDB_No": "74",
+        "desc": {
+            "ua": "Український бублик",
+            "ru": "Украинский бублик",
+            "en": "Ukrainian bagel",
+            "kk": "Жалбарық ұстау",
+            "pl": "Pstrąg lekko solony"
+        },
+        "energ_Kcal": 361,
+        "protein": 10.2,
+        "lipid": 6.8,
+        "carbohydrt": 63.9
+    },
+    {
+        "NDB_No": "75",
+        "desc": {
+            "ua": "Форель слабосолена",
+            "ru": "Форель слабосоленая",
+            "en": "Trout lightly salted",
+            "kk": "Қонақша қазақша",
+            "pl": "Daktyle, suszone"
+        },
+        "energ_Kcal": 202,
+        "protein": 22.5,
+        "lipid": 12.5,
+        "carbohydrt": 0
+    },
+    {
+        "NDB_No": "76",
+        "desc": {
+            "ua": "Фініки, сушені",
+            "ru": "Финики, сушеные",
+            "en": "Dates, dried",
+            "kk": "Тек тарақтармен нан",
+            "pl": "Chleb z ziarnami"
+        },
+        "energ_Kcal": 319,
+        "protein": 3,
+        "lipid": 0,
+        "carbohydrt": 72
+    },
+    {
+        "NDB_No": "77",
+        "desc": {
+            "ua": "Хліб з висівками",
+            "ru": "Хлеб с отрубями",
+            "en": "Bread with bran",
+            "kk": "Тамақ тарағы",
+            "pl": "Chleb pełnoziarnisty"
+        },
+        "energ_Kcal": 363,
+        "protein": 14.3,
+        "lipid": 1.65,
+        "carbohydrt": 72.8
+    },
+    {
+        "NDB_No": "78",
+        "desc": {
+            "ua": "Хліб, цільнозерновий",
+            "ru": "Хлеб, цельнозерновой",
+            "en": "Whole grain bread",
+            "kk": "Қара нан",
+            "pl": "Chleb czarny"
+        },
+        "energ_Kcal": 276,
+        "protein": 10.9,
+        "lipid": 4.9,
+        "carbohydrt": 47.1
+    },
+    {
+        "NDB_No": "79",
+        "desc": {
+            "ua": "Хліб, чорний",
+            "ru": "Хлеб, черный",
+            "en": "Black bread",
+            "kk": "Қызыл көкірек",
+            "pl": "Kapusta kolorowa"
+        },
+        "energ_Kcal": 218,
+        "protein": 6.8,
+        "lipid": 1.1,
+        "carbohydrt": 44.9
+    },
+    {
+        "NDB_No": "80",
+        "desc": {
+            "ua": "Цвітна капуста",
+            "ru": "Цветная капуста",
+            "en": "Cauliflower",
+            "kk": "Қазы",
+            "pl": "Cebula"
+        },
+        "energ_Kcal": 35,
+        "protein": 2.45,
+        "lipid": 0.28,
+        "carbohydrt": 4.48
+    },
+    {
+        "NDB_No": "81",
+        "desc": {
+            "ua": "Цибуля",
+            "ru": "Лук",
+            "en": "Onion",
+            "kk": "Қаңтар",
+            "pl": "Cukier"
+        },
+        "energ_Kcal": 43,
+        "protein": 1.41,
+        "lipid": 0.25,
+        "carbohydrt": 8.91
+    },
+    {
+        "NDB_No": "82",
+        "desc": {
+            "ua": "Цукор",
+            "ru": "Сахар",
+            "en": "Sugar",
+            "kk": "Қара ақаш",
+            "pl": "Czerwona papryka"
+        },
+        "energ_Kcal": 387,
+        "protein": 0,
+        "lipid": 0,
+        "carbohydrt": 100
+    },
+    {
+        "NDB_No": "83",
+        "desc": {
+            "ua": "Червоний перець",
+            "ru": "Красный перец",
+            "en": "Red pepper",
+            "kk": "Қызыл аңсау",
+            "pl": "Czarna rzodkiew"
+        },
+        "energ_Kcal": 20,
+        "protein": 0.9,
+        "lipid": 0.2,
+        "carbohydrt": 4.6
+    },
+    {
+        "NDB_No": "84",
+        "desc": {
+            "ua": "Чорна редька",
+            "ru": "Черный редька",
+            "en": "Black radish",
+            "kk": "Алма",
+            "pl": "Czarna porzeczka"
+        },
+        "energ_Kcal": 35,
+        "protein": 1.9,
+        "lipid": 0.2,
+        "carbohydrt": 9
+    },
+    {
+        "NDB_No": "85",
+        "desc": {
+            "ua": "Чорна смородина",
+            "ru": "Черная смородина",
+            "en": "Black currant",
+            "kk": "Қаймақсыз жұмыр",
+            "pl": "Czarnoplenna jarzębina"
+        },
+        "energ_Kcal": 56,
+        "protein": 1.4,
+        "lipid": 0.2,
+        "carbohydrt": 13.8
+    },
+    {
+        "NDB_No": "86",
+        "desc": {
+            "ua": "Чорноплідна горобина",
+            "ru": "Черноплодная рябина",
+            "en": "Black chokeberry",
+            "kk": "Жай",
+            "pl": "Szpinak"
+        },
+        "energ_Kcal": 55,
+        "protein": 1.5,
+        "lipid": 0.2,
+        "carbohydrt": 15
+    },
+    {
+        "NDB_No": "87",
+        "desc": {
+            "ua": "Шпинат",
+            "ru": "Шпинат",
+            "en": "Spinach",
+            "kk": "Түкке күрілген майда",
+            "pl": "Jabłko"
+        },
+        "energ_Kcal": 29,
+        "protein": 2.5,
+        "lipid": 0.36,
+        "carbohydrt": 3.04
+    },
+    {
+        "NDB_No": "88",
+        "desc": {
+            "ua": "Яблуко",
+            "ru": "Яблоко",
+            "en": "Apple",
+            "kk": "Түкке күрілген жай",
+            "pl": "Surowe jajko"
+        },
+        "energ_Kcal": 52,
+        "protein": 0.26,
+        "lipid": 0.17,
+        "carbohydrt": 13.8
+    },
+    {
+        "NDB_No": "89",
+        "desc": {
+            "ua": "Яйце сире",
+            "ru": "Сырое яйцо",
+            "en": "Raw egg",
+            "kk": "Қазы",
+            "pl": "Gotowane jajko"
+        },
+        "energ_Kcal": 143,
+        "protein": 12.6,
+        "lipid": 9.5,
+        "carbohydrt": 0.7
+    },
+    {
+        "NDB_No": "90",
+        "desc": {
+            "ua": "Яйце варене",
+            "ru": "Вареное яйцо",
+            "en": "Boiled egg",
+            "kk": "Бұрышқа, қол бөлінген, күйеу",
+            "pl": "Jajko sadzone"
+        },
+        "energ_Kcal": 155,
+        "protein": 13,
+        "lipid": 11,
+        "carbohydrt": 1.1
+    },
+    {
+        "NDB_No": "91",
+        "desc": {
+            "ua": "Яйце смажене",
+            "ru": "Жареное яйцо",
+            "en": "Fried egg",
+            "kk": "Бұрышқа, вар",
+            "pl": "Rodzynki"
+        },
+        "energ_Kcal": 196,
+        "protein": 13.6,
+        "lipid": 14.8,
+        "carbohydrt": 0.83
+    },
+    {
+        "NDB_No": "92",
+        "desc": {
+            "ua": "Ізюм",
+            "ru": "Изюм",
+            "en": "Raisins",
+            "pl": "Mięso z indyka, udo, pieczone"
+        },
+        "energ_Kcal": 326,
+        "protein": 3.1,
+        "lipid": 0.5,
+        "carbohydrt": 75
+    },
+    {
+        "NDB_No": "93",
+        "desc": {
+            "ua": "Індичатина, бедро, запечена",
+            "ru": "Индейка, бедро, запеченная",
+            "en": "Turkey, thigh, baked",
+            "pl": "Mięso z indyka, gotowane"
+        },
+        "energ_Kcal": 189,
+        "protein": 28.6,
+        "lipid": 7.39,
+        "carbohydrt": 0
+    },
+    {
+        "NDB_No": "94",
+        "desc": {
+            "ua": "Індичатина, варена",
+            "ru": "Индейка, вареная",
+            "en": "Turkey, boiled"
+        },
+        "energ_Kcal": 213,
+        "protein": 27.1,
+        "lipid": 10.5,
+        "carbohydrt": 0
+    }
+]
