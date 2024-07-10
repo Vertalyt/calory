@@ -8,8 +8,8 @@
   </div>
 
    <div class="flex justify-center gap-10">
-    <SubmitCustom @click.stop="emit('confirm')" :text="translate('Yes')" :color="'cyan'"> </SubmitCustom>
-   <SubmitCustom @click.stop="emit('modal-close')" :text="translate('No')" :color="'red'"> </SubmitCustom>
+    <SubmitCustom @click.stop="emit('confirm')" :text="translate('Yes')" :color="'cyan'" :isDisabled="isDisabled"> </SubmitCustom>
+    <SubmitCustom @click.stop="emit('modal-close')" :text="translate('No')" :color="'red'"> </SubmitCustom>
    </div>
 
   </div>
@@ -24,6 +24,14 @@ const emit = defineEmits({
   'modal-close': null,
   'confirm': null
 });
+
+const props = defineProps({
+  isDisabled: {
+    required: false,
+    type: Boolean,
+    default: false
+  }
+})
 
 </script>
 

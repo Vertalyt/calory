@@ -58,5 +58,12 @@
     "kcal_100" : "kcal/100",
     "g_100" : "g/100",
     "Date" : "Data",
-    "MissingData" : "Brakujące dane."
+    "MissingData" : "Brakujące dane.",
+    "updateData" : "Aktualizować dane",
+    "uploadToServer" : "Prześlij na serwer",
+    "downloadLists" : "Pobierz oficjalną listę.",
+    "sendDownloadLists":"Chcesz wysłać swoją listę produktów na serwer w celu dodania ich do backlisty?",
+    "PossibilityToAdd" : "Administrator aplikacji sprawdzi możliwość poszerzenia listy o Twoje produkty.",
+    "confidentiality" : "Wysyłany jest tylko dodany towar, wszystkie poufne dane pozostają na urządzeniu.",
+    "listEmpty":"Twoja lista jest obecnie pusta"
 }

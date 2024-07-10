@@ -31,3 +31,5 @@ export const langFlags = ['ua', 'ru', 'en', 'pl', 'kk'];
 
 export const versionKeyListProduct = 'versionProductList'
 export const versionValueListProduct = 1.01
+
+export const connectDb = ref()

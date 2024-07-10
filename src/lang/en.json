@@ -58,5 +58,12 @@
         "kcal_100" : "kcal/100",
         "g_100" : "g/100",
         "Date" : "Date",
-        "MissingData" : "No data."
+        "MissingData" : "No data.",
+        "updateData" : "Update data",
+        "uploadToServer" : "Upload to server",
+        "downloadLists" : "Download the official list.",
+        "sendDownloadLists":"Would you like to send your list of products to the server to be added to the backlist?",
+        "PossibilityToAdd" : "The application administrator will check the possibility of expanding the list with your products.",
+        "confidentiality" : "Only added goods are sent, all confidential data remains on the device.",
+        "listEmpty":"Your own list is currently empty"
     }
